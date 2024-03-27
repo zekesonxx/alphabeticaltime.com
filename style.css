@@ -32,7 +32,7 @@ b {
     left:0;
     /* TRBL */
     margin: 0 0 5px 10px;
-    animation: 8s ease 0s normal forwards 1 fadein;
+    animation: 2s ease 0s normal forwards 1 fadein;
 }
 @keyframes fadein{
     0% { opacity:0; }
